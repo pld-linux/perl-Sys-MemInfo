@@ -4,7 +4,6 @@
 #
 %define		pdir	Sys
 %define		pnam	MemInfo
-%include	/usr/lib/rpm/macros.perl
 Summary:	Sys::MemInfo - query the total free and used physical memory
 Name:		perl-Sys-MemInfo
 Version:	0.99
