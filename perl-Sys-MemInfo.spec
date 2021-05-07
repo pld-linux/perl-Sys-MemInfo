@@ -7,7 +7,7 @@
 Summary:	Sys::MemInfo - query the total free and used physical memory
 Name:		perl-Sys-MemInfo
 Version:	0.99
-Release:	3
+Release:	4
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Sys/%{pdir}-%{pnam}-%{version}.tar.gz
